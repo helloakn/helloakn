@@ -17,7 +17,15 @@ I would be glad to offer you my creative services for:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aung-kyaw-nyunt-02755313a/)  
 
 ---  
-Have a nice day!
+Have a nice day!  
+I have another message for you.
+That is I have published some nodejs package on npm. 
+pls kingly check it. please feel free to use it or contribute with me. 
+
+<img src="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png" />  
+
+[mysql-migrator](https://www.npmjs.com/package/mysql-migrator) 
+> for mysql migrations and seedings. let's make everything with automation.
 
 <!--
 **helloakn/helloakn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
