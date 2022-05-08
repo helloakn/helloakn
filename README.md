@@ -11,6 +11,7 @@ I would be glad to offer you my creative services for:
 - Cloud Solution Architect ( AWS )
 
 ## Contact Me
+![aungkyawnyunt2004@gmail.com](resources/gmail.png)(mailto:aungkyawnyunt2004@gmail.com)
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aungkyawnyunt2004@gmail.com)
 [<img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" />](https://msng.link/o/?959763764572=vi)
