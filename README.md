@@ -15,8 +15,7 @@ I would be glad to offer you my creative services for:
 [<img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" />](https://msng.link/o/?959763764572=vi)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aung-kyaw-nyunt-02755313a/)  
 
----  
-Have a nice day!  
+## npm packages by me
 I have another message for you.
 That is I have published some nodejs package on npm. 
 pls kingly check it. please feel free to use it or contribute with me. 
@@ -25,6 +24,9 @@ pls kingly check it. please feel free to use it or contribute with me.
 
 [mysql-migrator](https://www.npmjs.com/package/mysql-migrator) 
 > for mysql migrations and seedings. let's make everything with automation.
+
+[Dynamic Validator in JS](https://www.npmjs.com/package/dynamic-validator.js) 
+> npm package for easy validation in javascript.
 
 <!--
 **helloakn/helloakn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
