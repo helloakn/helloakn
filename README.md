@@ -22,7 +22,7 @@ pls kingly check it. please feel free to use it or contribute with me.
 
 <img src="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png" />  
 
-[mysql-migrator](https://www.npmjs.com/package/mysql-migrator) 
+[MySql Migrator & Seeder](https://www.npmjs.com/package/mysql-migrator) 
 > for mysql migrations and seedings. let's make everything with automation.
 
 [Dynamic Validator in JS](https://www.npmjs.com/package/dynamic-validator.js) 
