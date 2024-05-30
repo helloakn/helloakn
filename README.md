@@ -2,7 +2,7 @@
 I am Software Engineer from Myanmar with the 15 years of intensive work experience in IT Fields and who has always been interested in the new technologies.
 I have over 7 solid years of experience in Project Management and background as Backend Engineer.
 
-I can deliver **high quality work** for **either small nor huge.**
+I can deliver **high quality work** for **either small or huge.**
 
 I would be glad to offer you my creative services for:
 - Backend Engineer ( NodeJs, PHP, Python )
