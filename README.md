@@ -1,6 +1,8 @@
 ## Hi there 👋
-I am Software Engineer from Myanmar with the 15 years of intensive work experience in IT Fields and who has always been interested in the new technologies.
-I have over 7 solid years of experience in Project Management and background as Backend Engineer.
+I am Software Engineer from Myanmar with the 16 years of intensive work experience in IT Fields and who has always been interested in the new technologies.
+Strong expertise in migrating applications, optimizing legacy systems, and implementing modern technologies. 
+
+Proficient in a range of programming languages and frameworks, with a proven ability to deliver projects on time and diverse tech stack and committed to best practices in CI/CD and technical documentation.
 
 I can deliver **high quality work** for **either small or huge.**
 
@@ -11,7 +13,7 @@ I would be glad to offer you my creative services for:
 - Cloud Solution Architect ( AWS )
 
 ## Contact Me
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:akn.cloud86@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aungkyawnyunt2004@gmail.com)
 [<img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" />](https://msng.link/o/?959763764572=vi)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aung-kyaw-nyunt-02755313a/)  
 
