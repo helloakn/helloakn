@@ -1,19 +1,26 @@
-## Hi there 👋
-I am Software Engineer from Myanmar with the 16 years of intensive work experience in IT Fields and who has always been interested in the new technologies.
-Strong expertise in migrating applications, optimizing legacy systems, and implementing modern technologies. 
+## Professional Summary
+Technical Lead and Senior Software Engineer with **16+ years of experience** in software engineering, system architecture, and technical leadership. Proven track record of leading engineering teams of up to 20 developers, delivering enterprise-scale applications, and driving digital transformation initiatives across insurance, fintech, e-commerce, and outsourcing domains. Strong expertise in **Node.js, TypeScript, JavaScript, React.js, Vue.js, Python, PHP, Java, AWS, Docker, Jenkins, and CI/CD automation**. 
 
-Proficient in a range of programming languages and frameworks, with a proven ability to deliver projects on time and diverse tech stack and committed to best practices in CI/CD and technical documentation.
+Experienced in designing scalable **microservices architectures**, modernizing legacy systems, implementing cloud migration strategies, and building high-performance, business-critical applications. Skilled in mentoring engineers, conducting code reviews, stakeholder management, and delivering secure, maintainable, and business-focused software solutions in Agile environments.
 
-I can deliver **high quality work** for **either small or huge.**
+## Core Competencies
+- **Software Architecture & System Design** – Designing scalable enterprise systems and microservices architectures
+- **Technical Leadership** – Leading engineering teams, project ownership, and roadmap planning
+- **Team Mentoring & Coaching** – Mentoring developers, conducting code reviews, and knowledge sharing
+- **Cloud Infrastructure (AWS)** – AWS Lambda, ECS/Fargate, S3, API Gateway, Amplify, serverless deployments
+- **CI/CD & DevOps** – Jenkins, GitHub Actions, CodePipeline, Ansible, Docker, automated deployments
+- **API Design & Integration** – RESTful API, WebRTC, real-time messaging systems
+- **Performance Optimization** – System tuning, caching strategies, database optimization
+- **Database Design & Management** – MongoDB, PostgreSQL, MySQL, Redis, Elasticsearch
+- **Agile / Scrum Methodologies** – Sprint planning, backlog management, cross-functional collaboration
+- **Stakeholder Communication** – Translating technical solutions to business impact
+- **Project Management & Strategic Planning** – Planning, execution, and risk management for multi-team projects
+- **Problem Solving & Critical Thinking** – Root-cause analysis and solution design
+- **Soft Skills** – Conflict resolution, time management, decision making, continuous learning
 
-I would be glad to offer you my creative services for:
-- Backend Engineer ( NodeJs, PHP, Python )
-- Frontend Engineer. ( NextJs, ReactJs )
-- Mobile Application Developer ( ReactNative)
-- Cloud Solution Architect ( AWS )
 
 ## Contact Me
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aungkyawnyunt2004@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alex.clud2004@gmail.com)
 [<img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" />](https://msng.link/o/?+66660609210=vi)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aung-kyaw-nyunt-02755313a/)  
 
